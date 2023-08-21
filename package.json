@@ -1,0 +1,24 @@
+{
+  "name": "dating-app-backend",
+  "version": "1.0.0",
+  "description": "API for dating app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nkaleth/dating-app-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "dating-app"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nkaleth/dating-app-backend/issues"
+  },
+  "homepage": "https://github.com/Nkaleth/dating-app-backend#readme"
+}
