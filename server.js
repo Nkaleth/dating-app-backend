@@ -6,7 +6,7 @@ import Cards from './dbCards.js';
 // App config
 
 const app = express();
-const port = process.env.port || 8001;
+const port = process.env.PORT || 8001;
 const connectionUrl = 'mongodb+srv://nsegura:Kaleth123@cluster0.y7ntg95.mongodb.net/?retryWrites=true&w=majority';
 
 // Middleware
